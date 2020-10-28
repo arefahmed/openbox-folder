@@ -1,3 +1,3 @@
-# openbox-folder
-# link to open box folder 
-# https://drive.google.com/drive/folders/1JMI2kR3oBnsiIi6tBg3N0v288vuyP5zu
+# creat openbox folder in the .config folder in the home folder so make sure you have show hidden file in the view tab checked
+# go home folder then open .config then creat or open the  existing openbox folder then copy all these files in the repo inside
+# the openbox folder then click reconfigure openbox
